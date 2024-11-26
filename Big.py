@@ -1,0 +1,18 @@
+a=120000
+b=1000
+c=10
+if(a>b):
+    if(b>c):
+      print(b)
+    else:
+       print(c)
+if(b>a):
+    if(b<c):
+       print(c)
+    else:
+       print(b)
+if(a>c):
+    if(a>b):
+     print(a)
+    else:
+       print(b)
