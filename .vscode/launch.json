@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialUsingRecursion",
+            "request": "launch",
+            "mainClass": "FactorialUsingRecursion",
+            "projectName": "Java_self_e5ac34d0"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
